@@ -1,3 +1,2 @@
-selene
-pytest==7.3.1
-fixture
+selene>=2.0.0rc2
+pytest>=7.3.1
